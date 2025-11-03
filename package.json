@@ -1,10 +1,10 @@
 {
   "name": "musicapp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A simple music player application with real-time synchronization",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "author": "",
   "license": "ISC",
