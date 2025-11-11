@@ -84,7 +84,7 @@ The course follows a project-based learning approach, enabling hands-on experien
 
 Feel free to use this project as a starting point for your own web applications!
 
-## Maintainer
+## 👤 Maintainer
 
-Shristi Pathak  
-🔗 LinkedIn: [https://www.linkedin.com/in/shristi-p-483a4612a/](https://www.linkedin.com/in/shristi-p-483a4612a/)
+**Shristi Pathak**
+- LinkedIn: [@shristi-pathak](https://www.linkedin.com/in/shristi-pathak/)
