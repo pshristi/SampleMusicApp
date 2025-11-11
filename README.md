@@ -75,9 +75,8 @@ This project was developed as part of my self-learning journey through the **Ful
 - Security best practices
 
 **Course Details:**
-- **Instructor:** Arnav Gupta (@ChampionSwimmer)
+- **Instructor:** - Arnav Gupta ([@ChampionSwimmer](https://github.com/ChampionSwimmer))
 - **Platform:** Coding Blocks Online
-- **Rating:** 4.35/5.0 (401 ratings)
 - **Course Link:** [Full Stack Web Development with NodeJS Master Course](https://online.codingblocks.com/courses/web-development-online-course)
 
 The course follows a project-based learning approach, enabling hands-on experience in building full-fledged web applications from scratch.
@@ -85,6 +84,6 @@ The course follows a project-based learning approach, enabling hands-on experien
 Feel free to use this project as a starting point for your own web applications!
 
 ## 👤 Maintainer
-
 **Shristi Pathak**
-- LinkedIn: [@shristi-pathak](https://www.linkedin.com/in/shristi-pathak/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shristi-pathak)
