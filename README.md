@@ -63,6 +63,25 @@ This project demonstrates:
 - Handling client-side events
 - Playing audio in the browser
 
+## Course Information
+
+This project was developed as part of my self-learning journey through the **Full Stack Web Development with NodeJS Master Course** by Coding Blocks. The course provides comprehensive coverage of:
+
+- HTML, CSS, and JavaScript fundamentals
+- Node.js and Express.js for backend development
+- Real-time communication with WebSockets (Socket.IO)
+- Database integration (MySQL, MongoDB)
+- Version control and deployment
+- Security best practices
+
+**Course Details:**
+- **Instructor:** Arnav Gupta (@ChampionSwimmer)
+- **Platform:** Coding Blocks Online
+- **Rating:** 4.35/5.0 (401 ratings)
+- **Course Link:** [Full Stack Web Development with NodeJS Master Course](https://online.codingblocks.com/courses/web-development-online-course)
+
+The course follows a project-based learning approach, enabling hands-on experience in building full-fledged web applications from scratch.
+
 Feel free to use this project as a starting point for your own web applications!
 
 ## Maintainer
